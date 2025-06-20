@@ -1,0 +1,6 @@
+/test
+.env
+.DS_Store
+hello.txt
+logs.txt
+performance.csv
